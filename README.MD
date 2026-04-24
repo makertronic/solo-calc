@@ -1,6 +1,6 @@
 # ⛏️ GuiCalc: Solo Mining Calculator
 
-![GuiCalc Screenshot](./media/screenshot.png)
+![GuiCalc Screenshot](./media/screen.png)
 
 **GuiCalc** is a modern, high-precision desktop tool designed for cryptocurrency miners to estimate their performance in **Solo Mining**.
 
